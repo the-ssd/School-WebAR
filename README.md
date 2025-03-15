@@ -1,6 +1,9 @@
 # School-WebAR
 
-The booklet was created as a result of laboratory work on the discipline "Operating Systems"
+Буклет створено як результат виконання лабораторної роботи з дисципліни
+«Операційні системи»
 
-**Project team:**
-- {My Name}, AI-245
+**Команда проєкту:**
+- Sergei Drobinko, AI-245
+- викладач – Блажко О.А., доцент кафедри інформаційних систем Національного
+університету «Одеська політехніка»
